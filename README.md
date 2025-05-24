@@ -2,13 +2,19 @@
 
 Ein webbasiertes Verwaltungssystem für Parfums mit QR-Code-Unterstützung, Duftnoten-Diagramm, Kundenansicht und Admin-Dashboard – inklusive Installer.
 
-🔗 **Live-Demo:** [www.parfum.lcree.de](https://parfum.lcree.de)
+🔗 **Live-Demo:** [www.parfum.lcree.de](https://www.parfum.lcree.de)
 
 ![Screenshot](screenshot.png)
 
+![Screenshot](screenshot_dashboard.png)
+
+![Screenshot](screenshot_users.png)
+
+![Screenshot](screenshot_scentnotes.png)
+
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 
 - ✅ Düfte verwalten – mit Duftnoten (Kopf, Herz, Basis), Typ, Saison, Anlass usw.
@@ -29,7 +35,7 @@ Ein webbasiertes Verwaltungssystem für Parfums mit QR-Code-Unterstützung, Duft
 
 ---
 
-# 🛠️ Technologien
+## 🛠️ Technologien
 
 - PHP (PDO)
 
@@ -47,7 +53,7 @@ Ein webbasiertes Verwaltungssystem für Parfums mit QR-Code-Unterstützung, Duft
 
 ---
 
-# ⚙️ Installation
+## ⚙️ Installation
 
 
 1. Projekt herunterladen oder klonen:
@@ -80,7 +86,7 @@ http://localhost/parfum/
 
 ---
 
-# ✅ ToDo / Roadmap
+## ✅ ToDo / Roadmap
 
 - ✅  Installer mit SQL-Import
 - ✅  Admin-Panel
@@ -95,13 +101,26 @@ http://localhost/parfum/
 
 ---
 
-# 📝 Lizenz
+## 📝 Lizenz
 
 Dieses Projekt steht unter der MIT License – siehe LICENSE.
 
 ---
 
-# 🙋‍♂️ Autor
+## 📦 Verwendete Bibliotheken & Tools
+
+Dieses Projekt verwendet folgende Open-Source-Komponenten:
+
+- [Tabler](https://tabler.io/) – Admin-Dashboard UI-Template
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer) – Versand von E-Mails
+- [PHP QR Code](http://phpqrcode.sourceforge.net/) – Generierung von QR-Codes
+- [Tom Select](https://tom-select.js.org/) – Erweiterte Dropdown-Auswahl
+- [amCharts 4](https://www.amcharts.com/) – Darstellung der Duftnoten-Diagramme
+- [fslightbox.js](https://fslightbox.com/javascript) – Bildvorschau in Modal-Fenstern
+
+---
+
+## 🙋‍♂️ Autor
 
 Dominik
 
@@ -109,7 +128,7 @@ Dominik
 
 ---
 
-# 💡 Hinweis
+## 💡 Hinweis
 
 Dieses Projekt wurde für die Duftbranche entwickelt, eignet sich aber auch als Basis für ähnliche Produktkataloge mit Admin-Verwaltung und Kundenansicht. Besonders geeignet für Webentwickler, Agenturen oder kleine Unternehmen mit Fokus auf Parfüm, Kosmetik oder Produktmanagement.
 
