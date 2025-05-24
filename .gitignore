@@ -1,0 +1,10 @@
+# INFO
+/INFO.txt
+
+# Sensible Daten
+config/db_config.json
+website_settings.json
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
