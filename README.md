@@ -2,6 +2,8 @@
 
 Ein webbasiertes Verwaltungssystem für Parfums mit QR-Code-Unterstützung, Duftnoten-Diagramm, Kundenansicht und Admin-Dashboard – inklusive Installer.
 
+🔗 **Live-Demo:** [www.parfum.lcree.de](https://www.parfum.lcree.de)
+
 ![Screenshot](screenshot.png)
 
 ---
